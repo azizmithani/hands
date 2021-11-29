@@ -1,0 +1,11 @@
+##gff-version 3
+reference	.	gene	201	2258	.	+	.	ID=gnl|UG|Ta#S61633485;fasta_tag=gnl|UG|Ta#S61633485 TSA: Triticum aestivum cultivar Kukri KukriC117_1 mRNA sequence /gb=JP820949 /gi=359554132 /ug=Ta.3 /len=2058
+reference	.	gene	2459	4349	.	+	.	ID=gnl|UG|Ta#S12922951;fasta_tag=gnl|UG|Ta#S12922951 T.aestivum atp-2 mRNA for ATP synthase beta subunit /cds=p(15,1676) /gb=X74545 /gi=525290 /ug=Ta.5 /len=1891
+reference	.	gene	4550	6042	.	+	.	ID=gnl|UG|Ta#S58866862;fasta_tag=gnl|UG|Ta#S58866862 TSA: Triticum aestivum contig03722.TraeRec mRNA sequence /gb=JP209931 /gi=346477430 /ug=Ta.10 /len=1547 /newlen=1493
+reference	.	gene	6243	7591	.	+	.	ID=gnl|UG|Ta#S61778191;fasta_tag=gnl|UG|Ta#S61778191 TSA: Triticum aestivum Ta_Contig18734.ansp mRNA sequence /gb=JV891680 /gi=391073565 /ug=Ta.11 /len=1349
+reference	.	gene	7792	9937	.	+	.	ID=gnl|UG|Ta#S61830290;fasta_tag=gnl|UG|Ta#S61830290 TSA: Triticum aestivum Ta_Contig4527.ansp mRNA sequence /gb=JV867485 /gi=391049370 /ug=Ta.15 /len=2146
+reference	.	gene	10138	12327	.	+	.	ID=gnl|UG|Ta#S61810458;fasta_tag=gnl|UG|Ta#S61810458 TSA: Triticum aestivum Ta_Contig4190.ansp mRNA sequence /gb=JV867148 /gi=391049033 /ug=Ta.18 /len=2190
+reference	.	gene	12528	13236	.	+	.	ID=gnl|UG|Ta#S16230349;fasta_tag=gnl|UG|Ta#S16230349 G356.106F12F010918 G356 Triticum aestivum cDNA clone G356106F12, mRNA sequence /clone=G356106F12 /gb=CD902219 /gi=32676547 /ug=Ta.19 /len=709
+reference	.	gene	13437	14799	.	+	.	ID=gnl|UG|Ta#S61778422;fasta_tag=gnl|UG|Ta#S61778422 TSA: Triticum aestivum Ta_Contig18272.ansp mRNA sequence /gb=JV891218 /gi=391073103 /ug=Ta.22 /len=1363
+reference	.	gene	15000	16374	.	+	.	ID=gnl|UG|Ta#S61625918;fasta_tag=gnl|UG|Ta#S61625918 TSA: Triticum aestivum cultivar Kukri KukriC548_2 mRNA sequence /gb=JP836083 /gi=359569266 /ug=Ta.23 /len=1375
+reference	.	gene	16575	17824	.	+	.	ID=gnl|UG|Ta#S12923048;fasta_tag=gnl|UG|Ta#S12923048 Triticum aestivum mRNA for VER2, complete cds /cds=p(85,987) /gb=AB012103 /gi=16151818 /ug=Ta.31 /len=1250

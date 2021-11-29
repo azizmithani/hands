@@ -1,0 +1,224 @@
+reference	409	A	A	A
+reference	421	A	G	G
+reference	422	T	T	T
+reference	448	C	A	A
+reference	501	G	A	A
+reference	628	C	C	A
+reference	679	A	A	A
+reference	707	C	C	C
+reference	967	T	T	T
+reference	1015	C	C	C
+reference	1021	A	A	A
+reference	1055	T	T	T
+reference	1165	T	T	T
+reference	1330	G	G	G
+reference	1383	T	T	T
+reference	1516	A	A	A
+reference	1582	A	A	A
+reference	1603	G	G	A
+reference	1605	T	T	T
+reference	1663	T	T	T
+reference	1699	G	G	A
+reference	1867	G	A	G
+reference	1908	C	C	T
+reference	2014	C	T	C
+reference	2149	G	A	A
+reference	2598	C	C	C
+reference	2608	A	G	A
+reference	2682	T	C	C
+reference	2829	G	C	G
+reference	2838	G	G	G
+reference	2841	G	G	G
+reference	2901	G	G	G
+reference	2943	G	T	G
+reference	2997	T	T	T
+reference	3027	C	C	C
+reference	3141	C	C	C
+reference	3222	T	T	T
+reference	3249	C	C	C
+reference	3282	C	T	C
+reference	3324	G	A	A
+reference	3333	A	A	A
+reference	3342	T	T	C
+reference	3399	T	G	G
+reference	3432	C	C	C
+reference	3510	C	C	C
+reference	3615	C	T	C
+reference	3651	G	A	G
+reference	3831	T	T	T
+reference	3891	A	A	G
+reference	3954	T	T	T
+reference	3999	A	A	A
+reference	4011	C	T	C
+reference	4047	C	C	C
+reference	4056	G	G	G
+reference	4107	A	G	G
+reference	4121	G	G	A
+reference	4128	T	C	C
+reference	4137	A	G	G
+reference	4146	T	C	C
+reference	4147	A	A	A
+reference	4169	A	A	A
+reference	4212	A	A	G
+reference	4255	T	T	T
+reference	4299	G	G	G
+reference	4345	A	*	A
+reference	4654	T	C	C
+reference	4675	G	C	C
+reference	4690	A	A	G
+reference	4729	G	G	 
+reference	4780	C	G	 
+reference	4801	C	C	 
+reference	4819	G	C	 
+reference	4822	C	C	 
+reference	4852	C	C	 
+reference	4858	C	C	C
+reference	4861	G	G	C
+reference	4971	C	C	 
+reference	4977	C	C	 
+reference	5013	C	C	 
+reference	5043	G	G	 
+reference	5178	C	*	 
+reference	5406	C	C	 
+reference	5430	C	*	 
+reference	5433	A	*	 
+reference	5454	T	T	 
+reference	5460	C	C	 
+reference	5467	A	A	 
+reference	5523	G	G	 
+reference	5634	C	C	 
+reference	5685	A	A	 
+reference	5758	T	T	 
+reference	5805	T	T	 
+reference	5817	G	*	 
+reference	5853	A	A	 
+reference	5906	C	C	 
+reference	6350	G	A	A
+reference	6410	T	T	T
+reference	6417	G	G	A
+reference	6420	C	C	A
+reference	6452	C	C	T
+reference	6461	G	G	A
+reference	6501	C	C	C
+reference	6585	G	G	G
+reference	6586	G	G	C
+reference	6614	G	G	G
+reference	6638	C	C	C
+reference	6659	T	T	T
+reference	6731	T	T	T
+reference	6773	A	A	A
+reference	6815	T	T	T
+reference	6848	C	C	C
+reference	6851	A	A	G
+reference	6872	T	T	T
+reference	7073	G	G	G
+reference	7127	G	G	G
+reference	7199	C	C	C
+reference	7211	C	C	C
+reference	7361	C	C	C
+reference	7369	A	A	A
+reference	7582	T	T	T
+reference	8416	G	G	G
+reference	8473	A	A	A
+reference	8623	C	C	C
+reference	8740	C	C	C
+reference	8753	C	C	C
+reference	8754	T	T	T
+reference	8968	C	C	C
+reference	9128	A	G	G
+reference	9375	A	A	A
+reference	9476	G	G	G
+reference	9533	C	C	C
+reference	9662	C	C	C
+reference	9663	A	A	A
+reference	9681	A	C	A
+reference	9692	G	G	G
+reference	9715	G	G	G
+reference	9731	G	G	G
+reference	9740	G	G	G
+reference	10334	A	A	A
+reference	10497	T	T	T
+reference	10536	C	C	C
+reference	10539	A	G	A
+reference	10611	G	G	C
+reference	10749	A	A	A
+reference	10803	A	A	A
+reference	10818	C	C	C
+reference	10875	T	T	T
+reference	10881	T	T	G
+reference	10902	C	C	C
+reference	10944	C	C	T
+reference	11088	C	C	C
+reference	11103	C	C	C
+reference	11118	T	T	T
+reference	11181	C	C	T
+reference	11295	C	C	A
+reference	11376	G	G	G
+reference	11400	T	T	T
+reference	11499	C	C	C
+reference	11502	G	G	G
+reference	11623	T	T	T
+reference	11996	A	C	C
+reference	11997	A	T	T
+reference	12114	A	A	A
+reference	12126	G	G	G
+reference	12176	A	*	A
+reference	12185	C	C	T
+reference	12189	A	A	A
+reference	12310	C	C	C
+reference	12313	G	G	G
+reference	13792	G	G	G
+reference	13903	T	T	C
+reference	13911	G	G	G
+reference	13936	A	A	A
+reference	14014	C	C	C
+reference	14032	C	C	C
+reference	14053	A	*	A
+reference	14079	A	A	G
+reference	14099	C	C	C
+reference	14125	C	C	C
+reference	14150	C	C	C
+reference	14156	A	A	A
+reference	14210	C	T	T
+reference	14224	T	T	T
+reference	14262	C	C	C
+reference	14341	G	G	G
+reference	14365	C	C	C
+reference	14398	C	C	C
+reference	14410	C	C	C
+reference	14426	A	A	A
+reference	14433	G	G	A
+reference	14479	C	C	A
+reference	14485	C	C	T
+reference	14491	T	C	C
+reference	14553	G	G	G
+reference	14561	C	C	G
+reference	14563	T	C	C
+reference	14582	G	G	A
+reference	14588	T	T	T
+reference	14714	T	A	A
+reference	14762	C	0	T
+reference	15193	G	G	G
+reference	15209	A	G	G
+reference	15253	T	C	C
+reference	15307	T	T	T
+reference	15312	T	T	T
+reference	15313	C	C	C
+reference	15384	G	G	G
+reference	15433	T	T	T
+reference	15548	G	G	G
+reference	15562	G	G	G
+reference	15590	G	G	G
+reference	15650	C	C	C
+reference	15713	A	A	A
+reference	15719	T	T	T
+reference	15788	A	A	A
+reference	15866	G	G	G
+reference	15926	G	G	G
+reference	15941	G	A	G
+reference	15952	C	C	C
+reference	16016	G	G	G
+reference	16022	A	A	A
+reference	16052	A	A	A
+reference	16151	T	T	T
+reference	16324	C	C	C
